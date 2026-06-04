@@ -1,12 +1,12 @@
 {
   "schemaVersion": 3,
-  "builtAt": "2026-06-04T13:57:06.762Z",
+  "builtAt": "2026-06-04T13:58:32.383Z",
   "bizId": "tu-pian",
   "keyVersion": "v1",
   "wasmObfuscated": true,
   "summary": {
-    "totalFiles": 25,
-    "totalSizeBytes": 2578365,
+    "totalFiles": 1,
+    "totalSizeBytes": 84,
     "prefixes": []
   },
   "search": {
@@ -15,20 +15,20 @@
     "entryCount": 0
   },
   "manifest": {
-    "filename": "bab4dfe6028b1e73c4a71b8468e821c9153b20311cd01cd831c2f518cd70e37d.enc",
+    "filename": "583e573d507a1ce4f1afc3ae0b1141519bdd27e5c1fcb6c191cc62f700500e92.enc",
     "algorithm": "aes-256-gcm",
-    "ivBase64": "3DFYoxtiy/qtsg14",
-    "tagBase64": "9PTJnkU/dDbOqgTxiftPUQ==",
+    "ivBase64": "YgR+DSCFhUvYZBZo",
+    "tagBase64": "J9xHwfRzXfHByAX7u0gAHA==",
     "ivLen": 12,
     "tagLen": 16,
-    "plaintextLen": 9024,
-    "ciphertextLen": 9024
+    "plaintextLen": 624,
+    "ciphertextLen": 624
   },
   "wasm": {
-    "filename": "e302352710ed58010908b311b333d405c345ae7247f1eab1e4a59dcfa4d30f74.enc",
+    "filename": "b9b4cf070f6ad246f596751b94fa9916a6b7298931014a121f973762e1e2fcdb.enc",
     "algorithm": "aes-256-gcm",
-    "ivBase64": "VwZPBhf+R+IPCVXe",
-    "tagBase64": "BwPOORxW1yhDR3DT30/I4w==",
+    "ivBase64": "ZPQ/TPkdn/JZ9Ghm",
+    "tagBase64": "fzyoVBXeM3pMucGWwSkSYw==",
     "ivLen": 12,
     "tagLen": 16,
     "plaintextLen": 29404,
@@ -37,15 +37,15 @@
   "anchors": [
     {
       "index": 2,
-      "filename": "d09b15031ebe7d96263040b818ff84cd75167920837a728b731be459d86cd574.enc"
+      "filename": "631aaa80911379cabe3118604d8c657d253194a49a19dff0ca1d979f98f1cd50.enc"
     },
     {
       "index": 3,
-      "filename": "e519d1c198bff0ff5955dfb0ba782164965c5a8179f7631ad57543a6fa662e10.enc"
+      "filename": "c2d1877b7d5a5cae4e35cba051c414f6000d3f5b3ecfe65f9999cf6ce02363f2.enc"
     },
     {
       "index": 4,
-      "filename": "d8474a811fc7c8d00e16dc933a7642cc1c1e30d8063cc19ce309ec85688ad097.enc"
+      "filename": "1aef59f8e9c77e8a494d9785fb80f05dbcab88a2f57060a5389b34bf143bbc99.enc"
     }
   ]
 }
