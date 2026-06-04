@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 3,
+  "builtAt": "2026-06-04T13:51:53.298Z",
+  "bizId": "tu-pian",
+  "keyVersion": "v1",
+  "wasmObfuscated": true,
+  "summary": {
+    "totalFiles": 25,
+    "totalSizeBytes": 2578337,
+    "prefixes": []
+  },
+  "search": {
+    "enabled": false,
+    "tier": 1,
+    "entryCount": 0
+  },
+  "manifest": {
+    "filename": "93e736802bb1f08fd8fc73d3025b73d1bc0dd7cb11df463788d8625b2f1d0d92.enc",
+    "algorithm": "aes-256-gcm",
+    "ivBase64": "gxLrUw/DDX7zWW6m",
+    "tagBase64": "yN/G/pKp0WCQnqJqpogSxA==",
+    "ivLen": 12,
+    "tagLen": 16,
+    "plaintextLen": 9024,
+    "ciphertextLen": 9024
+  },
+  "wasm": {
+    "filename": "7d0d8def21bc7e78f3477b0f5e730d2715b6dfd0e3675e3d4cff16cd1ee780de.enc",
+    "algorithm": "aes-256-gcm",
+    "ivBase64": "g9DSxvyU8vtZfG/J",
+    "tagBase64": "YBwowR5AVKhTCOo4IDKwig==",
+    "ivLen": 12,
+    "tagLen": 16,
+    "plaintextLen": 29404,
+    "ciphertextLen": 29404
+  },
+  "anchors": [
+    {
+      "index": 2,
+      "filename": "631bd5e7a6a4ae37761e5a637d740c18d4d82489eb8b655bb3402dca23071567.enc"
+    },
+    {
+      "index": 3,
+      "filename": "e3f8e2752fa9a9d8dfe02d7b9d2a1e52c905a9c3d70ce80938c7b9feb3bc0b74.enc"
+    },
+    {
+      "index": 4,
+      "filename": "c1b6acc5faf0272baf12e7dadd665e9d078db957fddc1565d69d1b32eb895581.enc"
+    }
+  ]
+}
