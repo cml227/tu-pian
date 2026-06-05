@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "builtAt": "2026-06-05T08:23:59.120Z",
+  "builtAt": "2026-06-05T08:26:11.233Z",
   "bizId": "tu-pian",
   "keyVersion": "v1",
   "wasmObfuscated": true,
@@ -15,20 +15,20 @@
     "entryCount": 0
   },
   "manifest": {
-    "filename": "97d3144ecb5efe8c4cb5deb4e407f927500c92a34303633921d61eaf7110b894.enc",
+    "filename": "81007b7822c58a116406315ebfcfc0e3f830e212efe98c9eef2d5f4a404043a7.enc",
     "algorithm": "aes-256-gcm",
-    "ivBase64": "QYzS9aStARJyX78i",
-    "tagBase64": "MhGQ9064GOs8jqxKxHm3MQ==",
+    "ivBase64": "h45QSaR+Q5EqFInV",
+    "tagBase64": "WlkmAnzonrSqn7hOW/xDUQ==",
     "ivLen": 12,
     "tagLen": 16,
     "plaintextLen": 624,
     "ciphertextLen": 624
   },
   "wasm": {
-    "filename": "0c3de6e63f3c8cf9c74478eef2d0b1dd4c89f2e6cd57162df70148d2a48a8adb.enc",
+    "filename": "209a8b50d10ffc48146a085bb208ddbc5cc01ae629d935a939d75025e6ccf14d.enc",
     "algorithm": "aes-256-gcm",
-    "ivBase64": "7T7vvaUHnYnvyQ7P",
-    "tagBase64": "lM7xpvB6Or+rH665i8Yvgg==",
+    "ivBase64": "RuqG7W4gYAFyK0Yv",
+    "tagBase64": "0J1MeaHTxvpV9YKnDsjwdg==",
     "ivLen": 12,
     "tagLen": 16,
     "plaintextLen": 29404,
@@ -37,15 +37,15 @@
   "anchors": [
     {
       "index": 2,
-      "filename": "9bf0968f74b28978fd138b5885b71fa09474f7080395a0c652b5a311195dd5e1.enc"
+      "filename": "dc1a8c1f5f66bcd6d155ce497624e87bf08ae6ae3bb6c4b972ad0cad0bcb8f19.enc"
     },
     {
       "index": 3,
-      "filename": "6ce005d0559d5996498edf1564edc53e2e04d7f921c4e67ba0d8a1996e015526.enc"
+      "filename": "bd9da65566a81fe10fc4cbd8298445fc97a2d0f7fa2d21ad04ccb98da8fb7fbc.enc"
     },
     {
       "index": 4,
-      "filename": "cd1b57c829c6502500aa374ae28cf437c821baa049b9e3f4b16c542421db953a.enc"
+      "filename": "64a9b3357b732b1e8a89ef3fda311d2abf44f2e12d8b72fde0f2d66efee714e7.enc"
     }
   ],
   "plaintextManifest": [
